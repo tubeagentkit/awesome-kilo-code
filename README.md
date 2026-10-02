@@ -53,6 +53,7 @@ Real, independently-built tools that work with Kilo Code (verified active as of 
 - [**kilocode-agents**](https://github.com/galpt/kilocode-agents) — Prompt and agent presets for stronger multi-agent workflows in Kilo Code.
 - [**KiloCode-CustomModes-DualDesign**](https://github.com/Nikolay-Shirokov/KiloCode-CustomModes-DualDesign) — A dual-role custom mode setup for structured design + implementation workflows.
 - [**kilocode-rules**](https://github.com/shanefully-done/kilocode-rules) — A ruleset for keeping Kilo Code's output consistent across a project.
+- [**oc-go-usage-display**](https://github.com/christophkroeppl/oc-go-usage-display) — Live OpenCode Go plan usage (5h / 7d / 30d windows) as a Kilo Code sidebar block and statusline, plus a `go_usage` tool your agent can call; installs as a native Kilo plugin (`kilo.json` + `tui.json`) and reads Kilo's own auth store, so there is nothing to paste.
 
 *This section is honestly small — Kilo Code's third-party ecosystem is still young relative to its 27k-star install base. If you've built something real for Kilo Code, open a PR.*
 
